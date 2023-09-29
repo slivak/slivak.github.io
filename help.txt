@@ -1,0 +1,4 @@
+git remote set-url origin git@github.com:slivak/slivak.github.io.git
+git remote -v
+git push -u origin main
+git push
